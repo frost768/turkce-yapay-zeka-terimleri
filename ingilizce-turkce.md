@@ -30,7 +30,7 @@ A
 * **annotation: not**
 * approximate: yaklaşık
 * approximation: yaklaşıklama
-* arc: ayrıt
+* arc: ayrıt/yay
 * articulator: eklemleyici
 * **artificial: yapay**
 * **artificial intelligence: yapay zeka**
@@ -46,7 +46,7 @@ A
 * authentication: kimlik doğrulama
 * autoassociator: özilişkilendirici
 * **autoencoder: otokodlayıcı**
-* automaton: özdevinir
+* automaton: özdevinir/otomat
 * **autonomous vehicle: otonom araç**
 * **axial: eksen**
 * axiom: belit
@@ -112,7 +112,7 @@ C
 * **channel: kanal**
 * chapter: bölüm
 * characterize: betimlemek
-* **chatbot: sohbot**
+* **chatbot: sohbet botu**
 * chi-square: ki kare
 * city-block distance: şehir içi uzaklık
 * class: sınıf
@@ -285,6 +285,7 @@ E
 * evidence: kanıt
 * exact: kesin
 * example: örnek
+* exclusive: ayrıcalıklı/seçkin
 * exercise: alıştırma
 * exhaustive: kapsayan
 * expansion: açılım
@@ -379,7 +380,7 @@ H
 * hyper: üstün
 * **hyper parameter: üst değişken**
 * **hyperparameter: üst değişken**
-* hypothesis: denence
+* hypothesis: denence/hipotez
 
 I
 
@@ -394,7 +395,7 @@ I
 * **implement: uygulamak**
 * impurity: katışıklık
 * imputation: yükleme
-* **inception: basşlangıç**
+* **inception: başlangıç**
 * incremental: artımlı
 * independence: bağımsızlık
 * index: dizin
@@ -514,7 +515,7 @@ M
 *  modality: kip
 *  mode of a density: tepe dağılımı
 *  model: model
-*  moralization: ahlaklıla¸stırma
+*  moralization: ahlaklılaştırma
 * **multi layer perceptron: çok katmanlı algılayıcı**
 * **multi layer: çok katmanlı**
 * **multiclass: çok sınıflı***
@@ -527,14 +528,13 @@ M
 *  multiple: çoklu
 *  multistage: çok aşamalı
 *  multivariate: çok değişkenli
-*  mutually: exclusive ayrık
+*  mutually: karşılıklı
 
 N  
 
 *  naive: saf
 * **natural language processing: doğal dil işleme**
-* **nearest neighbour: en yakın komşu**
-* **nearest neighbours: en yakın komşular**
+* **nearest neighbour/s: en yakın komşu/lar**
 *  negative: eksi
 *  network: ağ
 * **neural: sinir**
@@ -611,7 +611,7 @@ P
 * **parsing: ayrıştırma**
 * **personal assistant: kişisel asistan**
 *  performance: başarım
-* **peritumoral: timör çevresi**
+* **peritumoral: tümör çevresi**
 * **perplexity: karışıklık**
 *  phone: sesbirimcik
 *  phoneme: sesbirim
@@ -748,13 +748,13 @@ S
 *  self-organizing: özörgütlemeli
 * **semantic: anlamsal**
 * **semantics: anlambilim**
-* **semantic segmantation: anlamsal bölümleme**
+* **semantic segmentation: anlamsal bölümleme**
 *  semiparametric: dağılıma yarı bağlı
 *  sensitivity: duyarlılık
 * **sentiment: duygusallık**
 *  sensor: alıcı
 *  sequence: dizi
-*  sequential: sırayla
+*  sequential: sıralı
 *  set: küme
 *  shaded: gölgeli
 * **shallow: sığ**
@@ -763,7 +763,7 @@ S
 *  short term: kısa soluklu
 *  sigmoid: işlevi
 *  sign: işaret
-* **signal to noise: gürülti sinyali**
+* **signal to noise: gürültü sinyali**
 *  significance: anlamlılık
 *  simulation: benzetim
 *  simultaneous: eş zamanlı
@@ -792,17 +792,17 @@ S
 *  spread: yayılım
 *  stable: kararlı
 * **stack: yığın**
+*  stacking: yığma
 * **stacked: yığılmış**
-* **state of art: güncel olan en iyi durum**
+* **state of the art: güncel olan en iyi durum**
 * **standardize: belirli bir forma getirmek**
 * **standardization: tek tip yapma**
-*  stacking: yığma
 * **stratified: kat kat olmuş**
 * **strided convolution: kademeli evrişim**
 *  stepsize: adım büyüklüğü
 *  stimulation: dürtü
 *  stochastic: rastgele
-* **stochastic gradient descent: rasgele gradyan inişi**
+* **stochastic gradient descent: rastgele gradyan inişi**
 *  strategy: yordam
 *  stratification: katmanla¸stırma
 *  stress: gerilim
@@ -891,7 +891,7 @@ V
 * **vanishing: yok olmak**
 *  variance: değişinti
 *  variational: değişimsel
-* **varius: çeşitli**
+* **various: çeşitli**
 *  vector: yöney
 *  version: sürüm
 *  vigilance: tetiklik
